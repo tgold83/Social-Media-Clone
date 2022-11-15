@@ -1,1 +1,1 @@
-<a href="https://drive.google.com/uc?export=view&id=1-1T-V4-MAZVxgzStiP2EGXDU3ZAdNH-s"><img src="https://drive.google.com/uc?export=view&id=1-1T-V4-MAZVxgzStiP2EGXDU3ZAdNH-s" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
+![Diagram of social media layout](./src/img/SocialMediaClone.drawio.png?raw=true"Diagram")
